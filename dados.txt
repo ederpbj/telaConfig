@@ -1,0 +1,16 @@
+Dados Pessoais
+- nome (TextInput)
+- data nascimento (Picker)
+- sexo (Picker)
+- altura (Slider - 1 metro e 3 metros)
+- peso (Slider - 10kg e 300kg)
+- doador de orgãos (Swich)
+
+Dados Financeiros
+- Salário (Slider - R$ 200 e R$ 30.000)
+- Banco (Picker)
+- Qt. de cartões (- 3 +)
+
+Botão - salver (chama um alert)
+
+suporte@b7web.com.br
